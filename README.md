@@ -1,4 +1,4 @@
-# handover-sh
+# 44pixels Limited
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -65,4 +65,142 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 handover-sh is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://handover.sh/
+
+**Areas:** Company
+
+## 44pixels Limited on APIs.io
+
+Everything profiled for 44pixels Limited is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/handover-sh/](https://apis.io/providers/handover-sh/)** — or go straight to one of the APIs or properties below.
+
+### APIs (20)
+
+- [44pixels Limited Activity API](https://apis.io/apis/handover-sh/handover-sh-activity-api/) — The Activity API from 44pixels Limited — 1 operation(s) for activity.
+- [44pixels Limited Agents API](https://apis.io/apis/handover-sh/handover-sh-agents-api/) — The Agents API from 44pixels Limited — 1 operation(s) for agents.
+- [44pixels Limited Analytics API](https://apis.io/apis/handover-sh/handover-sh-analytics-api/) — The Analytics API from 44pixels Limited — 2 operation(s) for analytics.
+- [44pixels Limited Artifacts API](https://apis.io/apis/handover-sh/handover-sh-artifacts-api/) — The Artifacts API from 44pixels Limited — 1 operation(s) for artifacts.
+- [44pixels Limited Connectors API](https://apis.io/apis/handover-sh/handover-sh-connectors-api/) — The Connectors API from 44pixels Limited — 2 operation(s) for connectors.
+- [44pixels Limited Exports API](https://apis.io/apis/handover-sh/handover-sh-exports-api/) — The Exports API from 44pixels Limited — 1 operation(s) for exports.
+- [44pixels Limited Folders API](https://apis.io/apis/handover-sh/handover-sh-folders-api/) — The Folders API from 44pixels Limited — 3 operation(s) for folders.
+- [44pixels Limited Handovers API](https://apis.io/apis/handover-sh/handover-sh-handovers-api/) — The Handovers API from 44pixels Limited — 15 operation(s) for handovers.
+- [44pixels Limited Imports API](https://apis.io/apis/handover-sh/handover-sh-imports-api/) — The Imports API from 44pixels Limited — 4 operation(s) for imports.
+- [44pixels Limited Me API](https://apis.io/apis/handover-sh/handover-sh-me-api/) — The Me API from 44pixels Limited — 1 operation(s) for me.
+- [44pixels Limited Notifications API](https://apis.io/apis/handover-sh/handover-sh-notifications-api/) — The Notifications API from 44pixels Limited — 1 operation(s) for notifications.
+- [44pixels Limited Operations API](https://apis.io/apis/handover-sh/handover-sh-operations-api/) — The Operations API from 44pixels Limited — 1 operation(s) for operations.
+- [44pixels Limited Organization API](https://apis.io/apis/handover-sh/handover-sh-organization-api/) — The Organization API from 44pixels Limited — 1 operation(s) for organization.
+- [44pixels Limited Publications API](https://apis.io/apis/handover-sh/handover-sh-publications-api/) — The Publications API from 44pixels Limited — 1 operation(s) for publications.
+- [44pixels Limited Reliability API](https://apis.io/apis/handover-sh/handover-sh-reliability-api/) — The Reliability API from 44pixels Limited — 1 operation(s) for reliability.
+- [44pixels Limited Reports API](https://apis.io/apis/handover-sh/handover-sh-reports-api/) — The Reports API from 44pixels Limited — 3 operation(s) for reports.
+- [44pixels Limited Search API](https://apis.io/apis/handover-sh/handover-sh-search-api/) — The Search API from 44pixels Limited — 1 operation(s) for search.
+- [44pixels Limited Spaces API](https://apis.io/apis/handover-sh/handover-sh-spaces-api/) — The Spaces API from 44pixels Limited — 7 operation(s) for spaces.
+- [44pixels Limited Storage API](https://apis.io/apis/handover-sh/handover-sh-storage-api/) — The Storage API from 44pixels Limited — 1 operation(s) for storage.
+- [44pixels Limited Tokens API](https://apis.io/apis/handover-sh/handover-sh-tokens-api/) — The Tokens API from 44pixels Limited — 1 operation(s) for tokens.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [44pixels Limited Agentic Access](https://apis.io/agentic-access/handover-sh/handover-sh-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [AcquisitionEventInput](https://apis.io/schemas/handover-sh/handover-sh-acquisition-event-input/)
+- [AcquisitionOverviewEnvelope](https://apis.io/schemas/handover-sh/handover-sh-acquisition-overview-envelope/)
+- [CreateConnectorDestination](https://apis.io/schemas/handover-sh/handover-sh-create-connector-destination/)
+- [CreateConnectorSource](https://apis.io/schemas/handover-sh/handover-sh-create-connector-source/)
+- [OperationsStatusEnvelope](https://apis.io/schemas/handover-sh/handover-sh-operations-status-envelope/)
+- [StorageStatusEnvelope](https://apis.io/schemas/handover-sh/handover-sh-storage-status-envelope/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Handover Sh Context](https://apis.io/jsonld/handover-sh/handover-sh-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [44pixels Limited API Rules](https://apis.io/rules/handover-sh/handover-sh-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [44pixels Limited Authentication](https://apis.io/security/handover-sh/handover-sh-authentication/)
+- [44pixels Limited Domain Security](https://apis.io/security/handover-sh/handover-sh-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://handover.sh/)
+- [Documentation](https://handover.sh/docs)
+- [Getting started](https://handover.sh/guides/cline-mcp-server-setup)
+- [API reference](https://handover.sh/llms.txt)
+- [Changelog](https://handover.sh/changelog)
+- [Security](https://handover.sh/security)
+- [Terms of service](https://handover.sh/terms)
+- [Privacy policy](https://handover.sh/privacy)
+- [GitHub](https://github.com/44-pixels)
+
+## API Evangelist rating
+
+**Kin Score 50.9** — developing · rubric 0.27.0 · scored 2026-11-11
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 55.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 36.8 |
+| Developer ergonomics | 61.2 |
+| Access clarity | 21.1 |
+
+**Agent readiness 52.9** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/handover-sh/](https://apis.io/providers/handover-sh/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for 44pixels Limited: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/handover-sh/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
